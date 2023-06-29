@@ -1,0 +1,6 @@
+июн. 27, 2023 1:53:02 PM seminar2.zadanie3 writeToFile
+INFO: Запись успешно выполнена
+июн. 27, 2023 1:53:14 PM seminar2.zadanie3 writeToFile
+INFO: Запись успешно выполнена
+июн. 27, 2023 1:53:26 PM seminar2.zadanie3 writeToFile
+INFO: Запись успешно выполнена
