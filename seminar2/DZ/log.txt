@@ -1,2 +1,8 @@
 июн. 29, 2023 11:58:26 AM seminar2.DZ.zadanie writeFile
 INFO: Запись была выполнена
+июл. 01, 2023 11:28:50 PM seminar2.DZ.zadanie writeFile
+INFO: Запись была выполнена
+июл. 01, 2023 11:29:14 PM seminar2.DZ.zadanie writeFile
+INFO: Запись была выполнена
+июл. 01, 2023 11:29:22 PM seminar2.DZ.zadanie writeFile
+INFO: Запись была выполнена
